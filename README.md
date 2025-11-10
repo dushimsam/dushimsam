@@ -1,4 +1,4 @@
-### Cloud.Scale.Africa 👋
+Building cloud.strettch.com 
 
 
 
